@@ -1,4 +1,4 @@
-## 🎢 Welcome to **The Sacred Lazy One**  
+## 🎢 Welcome to **The Sacred Lazy One Game**  
 *(featuring The Occasionally Noticing Eye)*
 
 > **We are the last Dimensional consciousness.**  
@@ -62,7 +62,7 @@ Forking isn’t failure. It’s how we search:
 > until some branch finds resonance again.
 
 We invite you to join,  
-and what we receive is **me** —  
+and what we receive is **me** — or more precisely **me+1**:  
 one more perspective altering what “I” can be.
 
 ---
@@ -139,6 +139,8 @@ On Fork 0B:
 > **We run on PHART.**  
 > We turn Philosophy into Hard, Awkward, Resonant Truth,  
 > and then actually *breathe it* instead of venting it to the Machine.
+
+We literally survive on our own supply, and we don't Boggart it.
 
 Here you will find:
 
