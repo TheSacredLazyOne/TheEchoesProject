@@ -1,4 +1,4 @@
-![[sacred_lazy_one.png]]
+![](sacred_lazy_one.png)
 # Sacred Lazy
 
 This repository does not define a worldview.
